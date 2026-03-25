@@ -21,17 +21,15 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 ### 🧾 Program
 
 ```python
-#Reg.NO
-#Name
-#Write your Code here
 
+a=int(input())
+b=int(input())
+for i in range (a, b+ 1):
+    print(i)
+    
 ```
 ### OUTPUT
-```
+<img width="737" height="539" alt="{8DEA2E60-A6D9-462B-9C86-95009EEF92E5}" src="https://github.com/user-attachments/assets/2a9a2827-1bb4-425d-9d5c-6a8785706c14" />
 
-```
 ### RESULT
-```
-
-```
-
+The program displays all integers from `m` to `n`, each on a new line.
